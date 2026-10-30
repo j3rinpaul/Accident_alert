@@ -67,7 +67,7 @@ Built with Python and FastAPI. It:
 
 ## Authors
 
-Jerin Paul
-Salvi Hanna John
-Adithiyan P
-Hashim Sharaf
+- Jerin Paul 
+- Salvi Hanna John \n
+- Adithiyan P
+- Hashim Sharaf
